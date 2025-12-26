@@ -24,7 +24,7 @@
   Combining Japanese visual novel features such as voice acting, a cute anime art style alongside beautiful backgrounds, with a familiar Canadian setting. Recommended for people unfamiliar with the visual novel medium, or those who want a l ighter, feel-good story.
 - [**Average Routine**](https://github.com/phongtnt/averageroutine) <br/>
   Average Routine, an anime theme turn based RPG
-- [**AIeD**:](https://github.com/phongtnt/aiedh <br/>
+- [**AIeD**:](https://github.com/phongtnt/aied) <br/>
   AleD is an intelligent educational chatbot that supports students, teachers, and parents in searching for knowledge, answering questions about subjects, and providing effective learning tips. The project is developed with a user-friendly interface that is easy to use and cross-platform.
 <img src="./img/tunjuk.png" width="270" align="right" />
 <br/>
